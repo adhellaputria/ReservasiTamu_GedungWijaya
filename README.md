@@ -24,6 +24,14 @@ Aplikasi ini dikembangkan sebagai bagian dari tugas magang di Diskominfo Kabupat
 * HTML, CSS, JavaScript
 * Bootstrap
 
+## Database
+
+Database project tersedia pada folder:
+
+database/dump/sijamu_db.sql
+
+Import file tersebut ke MySQL menggunakan phpMyAdmin atau TablePlus sebelum menjalankan aplikasi.
+
 ## Cara Menjalankan Project
 
 1. Clone repository ini
